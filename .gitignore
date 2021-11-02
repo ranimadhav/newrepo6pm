@@ -2,12 +2,5 @@
 this is first ignoring file
 
 *.net
-*.py
-*.py
-*.py
-*.py
-*.py
-*.py
-*.py
-*.py
+!*.py
 
