@@ -1,2 +1,5 @@
 
-this is first ignoring file 
+this is first ignoring file
+
+*.net
+
